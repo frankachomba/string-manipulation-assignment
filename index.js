@@ -51,7 +51,7 @@ console.log(total);
 console.log(purchase_per_unit);
 console.log(amount_payable);
 console.log(total_investment);
-console.log(Math.round(purchase_per_unit));
+console.log(Math.round(purchase_per_unit))
 console.log(Math.floor(purchase_per_unit));
 console.log(Math.ceil(purchase_per_unit));
 console.log(Math.min(amount_payable,purchase_per_unit,total,total_investment));
